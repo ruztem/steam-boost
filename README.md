@@ -1,4 +1,4 @@
-# Simple Steam hour farmer
+# Steam hour boost
 
 _`steam-hour-farmer` is a program that emulates you playing a game on Steam, with the purpose of effortlessly getting hours played on certain games on your profile._
 
